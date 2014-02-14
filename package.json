@@ -1,0 +1,20 @@
+{
+  "name": "hopjs-devkey",
+  "version": "0.0.1",
+  "description": "DevKey module for HopJS",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "pegjs": "~0.8.0"
+  },
+  "devDependencies": {
+    "hopjs-remote":"*"
+  },
+  "scripts": {
+    "test": "(cd examples/ex1 && ./test.sh) && (cd examples/service && ./test.sh)"
+  },
+  "author": "",
+  "license": "MIT"
+}
