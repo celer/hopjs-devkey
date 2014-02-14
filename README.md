@@ -70,6 +70,7 @@ DevKeys can be used from a number of different providers:
     api.create("User.create","/user/").demand("email","username").requireDevKey(mkp); 
     api.delete("User.delete","/user/:id").requireDevKey(mkp); 
   });
+```
 
 # Where do my dev keys come from?
 
