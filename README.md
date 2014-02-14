@@ -25,7 +25,7 @@ For example:
     //Don't allow this key to use IE
     key6:"!$headers.agent:/MSIE/"
   }
-
+```
 
 DevKeys can be used from a number of different providers:
 
