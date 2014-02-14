@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/celer/hopjs.png)](https://travis-ci.org/celer/hopjs)
-[![Depdendency Status](https://david-dm.org/celer/hopjs.png)](https://david-dm.org/celer/hopjs);
+[![Build Status](https://travis-ci.org/celer/hopjs-devkey.png)](https://travis-ci.org/celer/hopjs-devkey)
+[![Depdendency Status](https://david-dm.org/celer/hopjs-devkey.png)](https://david-dm.org/celer/hopjs-devkey);
 
 # Introduction
 
